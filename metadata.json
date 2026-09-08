@@ -1,0 +1,6 @@
+{
+  "name": "EquiCare Allocation Engine",
+  "description": "Multi-location assisted living management accounting and shared cost allocation SaaS web application with real-time dynamic calculations and 3-way reconciliation audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
