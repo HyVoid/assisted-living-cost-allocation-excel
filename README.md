@@ -461,7 +461,6 @@ The $27,000 of shared costs must reconcile exactly to the $3,000 vehicle transac
 
 The allocation does not change the company's total expense. It changes **where management sees the expense**.
 
-</details>
 
 ### Formula Reference
 
