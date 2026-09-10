@@ -10,9 +10,9 @@
 >
 > The browser version provides a complete analytical workflow without requiring Excel installation. For finance teams and controllers needing editable month-end close records, retained audit trails, and recurring monthly financial reporting, a premium offline version is available.
 >
-> **[🌐 Open the Free Web-Based Cost Allocation Calculator](#access)**
+> **[🌐 Open the Free Web-Based Cost Allocation Calculator](https://hyvoid.github.io/assisted-living-cost-allocation-excel/)**
 >
->  **[📥 Download the Offline Assisted Living Excel Template for Recurring Monthly Close](https://alexhasgreatestuff.gumroad.com/l/jphpc)**
+>  **[📥 Download the Offline Assisted Living Excel Template for Recurring Monthly Close](https://theseusworkshop.com/l/jphpc?utm_source=github&utm_medium=GitHub%20README)**
 
 ---
 
@@ -22,16 +22,13 @@ A multi-unit assisted living or senior care operation often manages multiple bui
 
 This template maps common financial bottlenecks to automated solutions:
 
-* **Pain Point: Obscured Facility Margins.** 
-  **Solution:** Calculates precise **unit-level revenue, direct operating costs, shared-cost burden, and net income**—ensuring every care home or living unit is evaluated on a standardized profit and loss (P&L) basis.
-* **Pain Point: Intermingled Corporate & Local Expenses.** 
-  **Solution:** Separates **direct contribution margin vs. fully loaded profitability**—isolating the true local economics of a facility from the financial weight of corporate resource distribution.
-* **Pain Point: Untraceable Overhead Distributions.** 
-  **Solution:** Clarifies **exactly how shared expenses are distributed across the portfolio**—displaying the exact allocation percentage and tracing back to the original general ledger (GL) transaction.
-* **Pain Point: Orphaned or Over-Allocated Costs.** 
-  **Solution:** Audits **allocation rules for under- or over-allocation**—enforcing a strict 100% control check rather than silently passing an incomplete financial split.
-* **Pain Point: Broken Month-End Consolidations.** 
-  **Solution:** Automates **company-level expense reconciliation**—seamlessly comparing source AP transactions, allocation-engine outputs, and the final unit-level financial roll-up.
+| Pain Point | Solution |
+| :--- | :--- |
+| **Obscured Facility Margins** | Calculates precise **unit-level revenue, direct operating costs, shared-cost burden, and net income**—ensuring every care home or living unit is evaluated on a standardized profit and loss (P&L) basis. |
+| **Intermingled Corporate & Local Expenses** | Separates **direct contribution margin vs. fully loaded profitability**—isolating the true local economics of a facility from the financial weight of corporate resource distribution. |
+| **Untraceable Overhead Distributions** | Clarifies **exactly how shared expenses are distributed across the portfolio**—displaying the exact allocation percentage and tracing back to the original general ledger (GL) transaction. |
+| **Orphaned or Over-Allocated Costs** | Audits **allocation rules for under- or over-allocation**—enforcing a strict 100% control check rather than silently passing an incomplete financial split. |
+| **Broken Month-End Consolidations** | Automates **company-level expense reconciliation**—seamlessly comparing source AP transactions, allocation-engine outputs, and the final unit-level financial roll-up. |
 
 ## Quick Start Tutorial: How to Automate Your Assisted Living Financial Reporting
 
@@ -47,7 +44,7 @@ Import your raw business transactions directly from QuickBooks, Xero, or your en
 ### 4. Generate Consolidated P&L & Reconcile Outputs
 The calculation engine instantly generates unit-level profitability reports, consolidated portfolio results, allocation status audits, and reconciliation indicators. Review the automated variance analysis and finalize your month-end close.
 
-> **Ready to standardize your monthly financial close?** Test the workflow online. Once you validate the logic, **[📥 Download the Offline Assisted Living Cost Allocation Excel Template](https://alexhasgreatestuff.gumroad.com/l/jphpc)** to save your parameters, retain transaction history, and reuse the model for every future reporting period.
+> **Ready to standardize your monthly financial close?** Test the workflow online. Once you validate the logic, **[📥 Download the Offline Assisted Living Cost Allocation Excel Template](https://theseusworkshop.com/l/jphpc?utm_source=github&utm_medium=GitHub%20README)** to save your parameters, retain transaction history, and reuse the model for every future reporting period.
 
 ## Why I Built This Financial Allocation Tool
 
