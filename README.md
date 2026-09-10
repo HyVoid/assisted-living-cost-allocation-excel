@@ -1,131 +1,93 @@
-# Multi-Unit Assisted Living Management Accounting & Cost Allocation Model
+# Assisted Living Cost Allocation & Management Accounting Excel Template for Multi-Facility Operators
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-informational.svg)](#access)
-[![Tool Type](https://img.shields.io/badge/Tool-Decision%20Support-success.svg)](#what-it-helps-track)
+[![Tool Type](https://img.shields.io/badge/Tool-Financial%20Modeling%20Software-success.svg)](#senior-care-financial-tracking-pain-points--cost-allocation-solutions)
 
-**A reusable management-accounting model for turning multi-location assisted living transactions into unit-level profitability, shared-cost allocation, and company-wide reconciliation — without rebuilding the analysis every month.**
+**An automated management accounting Excel template designed specifically for multi-unit assisted living facilities and senior care operators. This financial reporting model transforms consolidated corporate transactions into accurate unit-level profitability, automated shared-cost allocations, and company-wide general ledger reconciliation—eliminating the need to rebuild your senior living P&L spreadsheet every month.**
 
-> **Free Browser Version · No Signup · No Installation**
+> **Free Web-Based Financial Model · No Signup · No Installation**
 >
-> The browser version provides the analytical workflow without requiring Excel or installation. The Excel version is available as a reusable offline workbook for teams that need editable records, retained audit trails, and recurring monthly use.
+> The browser version provides a complete analytical workflow without requiring Excel installation. For finance teams and controllers needing editable month-end close records, retained audit trails, and recurring monthly financial reporting, a premium offline version is available.
 >
-> **[🌐 Open in Browser](#access)** · **[📥 Excel Version](#access)**
+> **[🌐 Open the Free Web-Based Cost Allocation Calculator](#access)**
+>
+>  **[📥 Download the Offline Assisted Living Excel Template for Recurring Monthly Close](#access)**
 
 ---
 
-## What It Helps You Track
+## Senior Care Financial Tracking: Pain Points & Cost Allocation Solutions
 
-A multi-unit assisted living operation can have several buildings generating revenue independently while sharing corporate overhead, vehicles, purchasing, administration, and other resources. The important question is not simply how much the company spent. It is **where that money ultimately belongs and whether the resulting profitability picture is internally consistent**.
+A multi-unit assisted living or senior care operation often manages multiple buildings generating revenue independently, while heavily relying on shared corporate overhead, regional nursing directors, fleet vehicles, and centralized administration. The critical financial question is not just tracking total corporate spend, but determining **where that overhead accurately belongs to calculate true facility EBITDA**.
 
-This model makes the following visible:
+This template maps common financial bottlenecks to automated solutions:
 
-* **Unit-level revenue, direct cost, shared-cost burden, and net income** — so each operating location can be evaluated on a consistent basis.
-* **Direct contribution vs. fully loaded profitability** — separating the economics of local operations from the effect of corporate and shared resources.
-* **Exactly how shared expenses are distributed across units** — including the allocation percentage and the original transaction behind each allocated amount.
-* **Allocation rules that are under- or over-allocated** — with an explicit 100% control rather than silently accepting an incomplete split.
-* **Company-level expense reconciliation** — comparing source transactions, allocation-engine output, and unit-level roll-up.
-* **Which units are carrying the highest shared-cost burden** — providing a basis for management review rather than treating shared overhead as an undifferentiated corporate expense.
+* **Pain Point: Obscured Facility Margins.** 
+  **Solution:** Calculates precise **unit-level revenue, direct operating costs, shared-cost burden, and net income**—ensuring every care home or living unit is evaluated on a standardized profit and loss (P&L) basis.
+* **Pain Point: Intermingled Corporate & Local Expenses.** 
+  **Solution:** Separates **direct contribution margin vs. fully loaded profitability**—isolating the true local economics of a facility from the financial weight of corporate resource distribution.
+* **Pain Point: Untraceable Overhead Distributions.** 
+  **Solution:** Clarifies **exactly how shared expenses are distributed across the portfolio**—displaying the exact allocation percentage and tracing back to the original general ledger (GL) transaction.
+* **Pain Point: Orphaned or Over-Allocated Costs.** 
+  **Solution:** Audits **allocation rules for under- or over-allocation**—enforcing a strict 100% control check rather than silently passing an incomplete financial split.
+* **Pain Point: Broken Month-End Consolidations.** 
+  **Solution:** Automates **company-level expense reconciliation**—seamlessly comparing source AP transactions, allocation-engine outputs, and the final unit-level financial roll-up.
 
-The result is a management view that answers three different questions at once:
+## Quick Start Tutorial: How to Automate Your Assisted Living Financial Reporting
 
-**What happened? → Where did it belong? → Does the final company total still reconcile?**
+### 1. Configure Operating Parameters & Chart of Accounts
+Initialize your financial control assumptions: define the reporting currency, target EBITDA profitability thresholds, reconciliation tolerances, fiscal year, and the suspense account used for unresolved journal entries. Maintain these parameters in a centralized dashboard rather than hardcoding them into hidden cell formulas.
 
-## Quick Start Workflow
+### 2. Define Your Senior Care Portfolio & Overhead Rules
+Enter your active assisted living facilities (cost centers) and their unique identifiers. Map your chart of accounts covering resident revenue, direct facility expenses, and shared corporate overhead. Next, define dynamic shared-cost distribution rules (e.g., Regional Nursing Travel → 40% Facility A / 35% Facility B / 25% Facility C). The engine ensures all percentages mathematically close to 100%.
 
-### 1. Set the operating parameters
+### 3. Load General Ledger Transactions
+Import your raw business transactions directly from QuickBooks, Xero, or your enterprise ERP. A $3,000 corporate vehicle expense is recorded precisely once. Direct facility expenses automatically snap to their target unit, while shared corporate expenses trigger your pre-defined allocation rules.
 
-Establish the basic control assumptions once: reporting currency, target profitability threshold, reconciliation tolerance, analysis year, and the suspense unit used for unresolved items.
+### 4. Generate Consolidated P&L & Reconcile Outputs
+The calculation engine instantly generates unit-level profitability reports, consolidated portfolio results, allocation status audits, and reconciliation indicators. Review the automated variance analysis and finalize your month-end close.
 
-Maintain the parameters centrally rather than embedding them inside individual calculations.
+> **Ready to standardize your monthly financial close?** Test the workflow online. Once you validate the logic, **[📥 Download the Offline Assisted Living Cost Allocation Excel Template](#)** to save your parameters, retain transaction history, and reuse the model for every future reporting period.
 
-### 2. Define the operating structure
+## Why I Built This Financial Allocation Tool
 
-Enter the active assisted living units and their identifiers. Maintain the account dictionary covering revenue, direct expense, and shared expense categories.
+The most complex challenge in **multi-location assisted living accounting** isn't basic arithmetic; it’s determining **which expenses belong to which operating facility without distorting the consolidated company financial statements**.
 
-Then define the shared-cost rules. A rule can distribute one company-level expense across several operating units, such as:
+A traditional workflow involves exporting a corporate expense ledger and manually dividing costs across buildings using ad-hoc spreadsheet formulas. This fragments the original transaction, breaks the audit trail, and inevitably leads to allocation percentages that fail to tie out to 100%. 
 
-* Vehicle expenses → 40% / 35% / 25%
-* Corporate overhead → 25% / 25% / 25% / 25%
+This model replaces informal spreadsheet math with a **traceable management-accounting workflow**: 
+**Source Transaction → Explicit Business Rule → Unit-Level P&L Result → Consolidated GL Reconciliation**
 
-The allocation percentages must close to 100%.
+If management asks why a specific care facility shows a 12% profit margin, you can instantly prove exactly how much was generated locally versus how much corporate overhead was absorbed.
 
-### 3. Load the transactions
+## Multi-Facility Accounting Pain Points Solved
 
-Enter or import the original business transactions.
-
-A shared expense remains **one transaction**. A $3,000 vehicle expense is recorded as $3,000 once. The allocation is performed later according to the selected rule.
-
-Direct expenses identify their operating unit. Shared expenses identify their allocation rule.
-
-### 4. Review the outputs
-
-The model automatically produces unit-level profitability, consolidated results, allocation status, and reconciliation indicators.
-
-Set the parameters once. Drop in the operating data. Review the analysis. Refresh when the next reporting period arrives.
-
-## Why I Built This
-
-The difficult part of multi-location assisted living accounting is rarely adding numbers. It is deciding **which numbers belong to which operating unit without changing the company total in the process**.
-
-A common workflow starts with a corporate expense ledger and then manually distributes selected expenses across buildings. That seems straightforward until the same shared expense is entered separately for several locations, allocation percentages no longer add to 100%, or a unit-level report cannot be traced back to the original transaction.
-
-The problem becomes particularly visible when management asks:
-
-> “This building shows a 12% margin. How much of that result is actually generated by the building, and how much is the result of the way corporate costs were allocated?”
-
-For example, suppose a company records a **$3,000 shared vehicle expense**.
-
-A manual approach might create:
-
-| Unit      | Entered Expense |
-| --------- | --------------: |
-| Unit A    |          $1,200 |
-| Unit B    |          $1,050 |
-| Unit C    |            $750 |
-| **Total** |      **$3,000** |
-
-The arithmetic works, but the original transaction has been fragmented.
-
-The model keeps the source transaction intact:
-
-| Source Transaction | Amount | Allocation      |
-| ------------------ | -----: | --------------- |
-| Vehicle expense    | $3,000 | 40% / 35% / 25% |
-
-The calculation layer then produces the unit-level results while retaining the source transaction ID and applied allocation rate.
-
-That distinction matters. It turns allocation from an informal spreadsheet exercise into a **traceable management-accounting workflow**.
-
-I built this as productized reasoning rather than a one-off reporting sheet: enter the economic event once, apply an explicit business rule, produce the unit result, and then prove that the result still reconciles to the original company total.
-
-## Common Multi-Unit Assisted Living Problems This Solves
-
-| Problem                                            | Without This Tool                                                                                                                                  | With This Tool                                                                                                            |
+| Financial Reporting Pain Point | Traditional Manual Spreadsheet Workflow | Automated Excel Allocation Model Solution |
 | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Shared expenses entered multiple times             | The same corporate or vehicle cost can be manually split across units, creating duplicate-entry risk.                                              | The original expense is entered once and distributed through an explicit allocation rule.                                 |
-| Allocation percentages do not equal 100%           | A 95% allocation can silently leave part of an expense unassigned, while a 105% allocation can inflate unit costs.                                 | Every rule is checked against a 100% allocation requirement and flagged when it is under or over the permitted threshold. |
-| Unit profitability is distorted by allocation      | Management sees a unit margin without being able to distinguish local operating performance from shared-cost absorption.                           | Direct contribution and allocated shared cost are presented separately before arriving at unit net income.                |
-| Corporate costs cannot be traced                   | A unit-level expense may exist in a report without an obvious path back to the original transaction.                                               | Allocated rows retain the source transaction ID, allocation rule, target unit, and applied percentage.                    |
-| Consolidated totals do not match the source ledger | Manual allocation and aggregation can create unexplained differences between transaction totals and management reports.                            | Source expense, allocation-engine expense, and unit roll-up are explicitly reconciled.                                    |
-| Management sees a dashboard but not the reason     | A top-line KPI can show that a unit is underperforming without showing whether the issue is revenue, direct operating cost, or shared-cost burden. | The profitability chain separates revenue, direct cost, contribution margin, allocated cost, total cost, and net income.  |
+| **Duplicate Shared Expense Entries** | The same corporate overhead or vehicle lease is manually split across tabs, creating massive duplicate-entry risk during month-end close. | The source expense is imported **once** and dynamically distributed through an explicit, locked allocation rule. |
+| **Broken Percentage Allocations** | A 95% manual formula silently leaves expenses unassigned; a 105% typo artificially inflates a facility's operating costs. | Every distribution rule requires a **strict 100% allocation threshold** and visually flags any variance. |
+| **Distorted Facility EBITDA** | Executives review a facility margin without distinguishing local operational efficiency from heavy shared-cost absorption. | **Direct contribution margin** and **allocated shared costs** are segmented clearly before calculating final net income. |
+| **Untraceable Corporate Costs** | A unit-level expense appears on a P&L dashboard with zero audit trail back to the original accounts payable transaction. | Allocated line items retain their **source transaction ID**, target unit, and applied percentage for instant auditing. |
+| **Consolidated Ledger Mismatches** | Manual aggregation creates unexplained financial gaps between original bank transactions and final management reporting decks. | Source expenses, allocation-engine outputs, and final portfolio roll-ups are **explicitly reconciled** in one view. |
 
-## Who This Is For
+## Who This Financial Template Is For
 
-This model is designed for **multi-unit assisted living operators, management accountants, financial analysts, controllers, regional operators, and owners** who need a practical way to understand profitability by building or operating unit.
+This toolkit is engineered specifically for accounting and operations professionals who need to connect **corporate GL data → allocation rules → facility P&L → portfolio consolidation** without investing in expensive enterprise ERP implementations (like Yardi or PointClickCare).
 
-It is particularly useful where:
+**Ideal for:**
+*   **Financial Controllers & CFOs:** Needing a reliable *month-end close Excel template* that maintains an unbroken audit trail from transaction to consolidated financial statement.
+*   **Management Accountants:** Looking for a *cost allocation software alternative* to eliminate manual spreadsheet errors when distributing corporate overhead.
+*   **Regional Operators & Facility Managers:** Requiring a transparent *assisted living P&L dashboard* to understand their true direct operating margins versus corporate cost burdens.
+*   **Senior Living Owners & Investors:** Seeking a *portfolio financial modeling tool* to accurately evaluate the profitability of individual properties within a larger group.
 
-* several facilities operate independently;
-* corporate or shared resources serve multiple locations;
-* management needs unit-level profitability rather than company totals alone;
-* shared costs need explicit allocation rules;
-* financial reporting must remain traceable back to source transactions;
-* Excel is preferred over a large enterprise implementation.
+## Ideal Use Cases & Long-Tail Financial Scenarios
 
-It is **not designed as a replacement for a statutory accounting system, general ledger, payroll system, or enterprise ERP**. Its purpose is management accounting, cost allocation, reconciliation, and decision support.
+*   **Monthly Month-End Close (MEC) Reporting:** Rapidly converting raw accounting exports into polished, facility-by-facility profitability reports for board meetings.
+*   **Overhead Burden Analysis:** Auditing corporate departments (HR, Regional Nursing, Marketing) to ensure costs are fairly distributed based on facility bed count, revenue, or square footage.
+*   **Mergers & Acquisitions (M&A) Due Diligence:** Normalizing the historical financials of a newly acquired multi-unit care home group to uncover true localized EBITDA.
+*   **Budgeting & Forecasting Setup:** Establishing a baseline of actual shared-cost distributions to create more accurate facility-level financial projections for the upcoming fiscal year.
 
-No spreadsheet expertise is required to use the browser version. Open the browser implementation and start working with the analytical workflow immediately.
+*(Note: This tool is designed for management accounting, cost allocation, and operational decision support. It is not intended to replace your statutory accounting software, formal general ledger, or payroll processing systems.)*
 
 ## About
 
