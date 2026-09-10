@@ -12,7 +12,7 @@
 >
 > **[🌐 Open the Free Web-Based Cost Allocation Calculator](#access)**
 >
->  **[📥 Download the Offline Assisted Living Excel Template for Recurring Monthly Close](#access)**
+>  **[📥 Download the Offline Assisted Living Excel Template for Recurring Monthly Close](https://alexhasgreatestuff.gumroad.com/l/jphpc)**
 
 ---
 
@@ -47,7 +47,7 @@ Import your raw business transactions directly from QuickBooks, Xero, or your en
 ### 4. Generate Consolidated P&L & Reconcile Outputs
 The calculation engine instantly generates unit-level profitability reports, consolidated portfolio results, allocation status audits, and reconciliation indicators. Review the automated variance analysis and finalize your month-end close.
 
-> **Ready to standardize your monthly financial close?** Test the workflow online. Once you validate the logic, **[📥 Download the Offline Assisted Living Cost Allocation Excel Template](#)** to save your parameters, retain transaction history, and reuse the model for every future reporting period.
+> **Ready to standardize your monthly financial close?** Test the workflow online. Once you validate the logic, **[📥 Download the Offline Assisted Living Cost Allocation Excel Template](https://alexhasgreatestuff.gumroad.com/l/jphpc)** to save your parameters, retain transaction history, and reuse the model for every future reporting period.
 
 ## Why I Built This Financial Allocation Tool
 
